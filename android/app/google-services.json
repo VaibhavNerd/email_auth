@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "861382237691",
+    "firebase_url": "https://kavach-d3b8a-default-rtdb.firebaseio.com",
+    "project_id": "kavach-d3b8a",
+    "storage_bucket": "kavach-d3b8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861382237691:android:e708716f95b46bf2f87f5e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_fb_auth_emailpass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861382237691-vfu2h5e11l4ei0k8obuhv846vl7qu3ll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgI9jvUbEvh_i9onAWXYtwAwa4cHkZezM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861382237691-vfu2h5e11l4ei0k8obuhv846vl7qu3ll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
